@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34132'
     url: http://www.gutenberg.org/2009/agents/34132
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29754#Whittier-land--13-A-Handbook-of-North-Essex-Containing-Many-Anecdotes-of-and-Poems-by-John-Gr_
 gutenberg_issued: '2009-08-22'
 gutenberg_type: Text
 identifiers:
