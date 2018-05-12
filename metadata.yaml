@@ -1,0 +1,31 @@
+_repo: Whittier-land--13-A-Handbook-of-North-Essex-Containing-Many-Anecdotes-of-and-Poems-by-John-Gr__29754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pickard, Samuel T. (Samuel Thomas)
+    alias: Pickard, Samuel Thomas
+    birthdate: 1828
+    deathdate: 1915
+    gutenberg_agent_id: '34132'
+    url: http://www.gutenberg.org/2009/agents/34132
+description: ''
+gutenberg_issued: '2009-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29754'
+  lccn: 04010894
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literary landmarks -- Massachusetts -- Essex County'
+- !lcc 'PS'
+- !lcsh 'Whittier, John Greenleaf, 1807-1892 -- Homes and haunts -- Massachusetts
+  -- Essex County'
+title: "Whittier-land\r\nA Handbook of North Essex, Containing Many Anecdotes of and\
+  \ Poems by John Greenleaf Whittier Never Before Collected."
+url: http://www.gutenberg.org/ebooks/29754
